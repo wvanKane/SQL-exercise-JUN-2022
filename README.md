@@ -1,0 +1,1 @@
+# SQL-exercise-JUN-2022
