@@ -100,8 +100,3 @@ ORDER BY Color DESC
 --	 are NULL in any of the two columns in the result.
 /*DELETED*/
 
-ORDER BY Name
-
-
-
-
