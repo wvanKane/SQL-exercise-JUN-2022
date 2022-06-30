@@ -1,5 +1,5 @@
 --Assignment 6/28
-/*Auther:Yifan Liao*/
+/*Author:Yifan Liao*/
 --Write queries for following scenarios - Using AdventureWorks Database
 USE AdventureWorks2019
 Go
