@@ -1,4 +1,5 @@
 --Write queries for following scenarios
+/*Author: Yifan Liao*/
 --Using AdventureWorks Database
 USE AdventureWorks2019
 GO
